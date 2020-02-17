@@ -1,5 +1,5 @@
 def my_hash
-  Hash
+  hash = {key => value}
 end
 
 
