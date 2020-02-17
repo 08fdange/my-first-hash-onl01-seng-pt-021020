@@ -1,7 +1,5 @@
 def my_hash
   Hash
- 
-
 end
 
 
